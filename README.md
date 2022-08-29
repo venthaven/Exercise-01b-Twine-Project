@@ -3,6 +3,7 @@
 Exercise for MSCH-C220
 
 A demonstration of this exercise is available at [https://youtu.be/VVd_8dvao9E](https://youtu.be/VVd_8dvao9E).
+An updated demonstration of this exercise (to account for the Twine 2.4 UI changes) is available at [https://youtu.be/HH3K50PZq5c](https://youtu.be/HH3K50PZq5c).
 
 This exercise is an opportunity for you to create your first project in Twine, the open-source tool for creating non-linear interactive stories (interactive fiction). You should have installed [Twine 2.4.1](http://twinery.org/)  as part of your last exercise; if not, please do so now.
 
